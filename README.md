@@ -5,12 +5,11 @@ This repository contains a study on image classification using the Fashion MNIST
 
 ## Repository Composition
 
-data/: Contains the Fashion MNIST dataset.
-models/: Stores trained models for future use.
-notebooks/: Jupyter notebooks used for experimentation and analysis.
-scripts/: Source code including model definitions and utility functions.
-docs/: Project documentation in Italian.
-README.md: This file, providing an overview of the project.
+- **data**: Contains the Fashion MNIST dataset.
+- **models**: Stores trained models for future use.
+- **notebooks**: Jupyter notebooks used for experimentation and analysis.
+- **scripts**: Source code including model definitions and utility functions.
+- **docs**: Project documentation in Italian.
 
 ## Dataset
 Fashion MNIST consists of grayscale images of clothing items categorized into 10 classes. Each image is 28x28 pixels, making it suitable for benchmarking image classification algorithms.
