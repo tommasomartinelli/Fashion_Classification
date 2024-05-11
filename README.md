@@ -26,11 +26,3 @@ The study involves training and evaluating both models using various configurati
 ## Results
 The custom CNN achieves an accuracy of 92.88% on the test set, outperforming the pre-trained ResNet18 model, which achieves 90.91% accuracy.
 
-## Repository Composition
-
-data/: Contains the Fashion MNIST dataset.
-models/: Stores trained models for future use.
-notebooks/: Jupyter notebooks used for experimentation and analysis.
-scripts/: Source code including model definitions and utility functions.
-docs/: Project documentation in Italian.
-README.md: This file, providing an overview of the project.
